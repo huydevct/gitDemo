@@ -1,0 +1,14 @@
+{
+  "name": "demo-git",
+  "version": "1.0.0",
+  "description": "this is just the demo\r // first lesson\r // git init\r // git add\r // git commit\r // git status",
+  "main": "Bird.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
