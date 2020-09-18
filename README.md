@@ -18,3 +18,8 @@ this is just the demo
 // git checkout -b <branch> (branching)
 // git checkout <branch>
 // git merge
+A <-- B
+git checkout A
+git merge B
+
+// git branch -D <branch>
