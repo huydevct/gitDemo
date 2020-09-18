@@ -28,3 +28,5 @@ git merge B
 // git reset --soft <to commit>
 // git reset --mixed <to commit>
 // git reset --hard <to commit>
+
+// git revert
