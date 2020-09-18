@@ -8,3 +8,4 @@ this is just the demo
 // second lesson
 // git log
 // git show
+// git diff
