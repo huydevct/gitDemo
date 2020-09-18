@@ -32,3 +32,8 @@ git merge B
 // git revert
 
 // git remote add origin
+// git remote -v
+// git push
+// (Nếu chưa đăng nhập thì git push -u origin master)
+// load lại trang
+
