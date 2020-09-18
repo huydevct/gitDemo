@@ -30,3 +30,5 @@ git merge B
 // git reset --hard <to commit>
 
 // git revert
+
+// git remote add origin
