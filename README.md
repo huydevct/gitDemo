@@ -23,3 +23,8 @@ git checkout A
 git merge B
 
 // git branch -D <branch>
+
+// fifth lesson
+// git reset --soft <to commit>
+// git reset --mixed <to commit>
+// git reset --hard <to commit>
