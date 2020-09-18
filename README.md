@@ -15,6 +15,6 @@ this is just the demo
 // git reset
 
 // fourth lesson
-// git checkout .b <branch> (branching)
+// git checkout -b <branch> (branching)
 // git checkout <branch>
 // git merge
