@@ -9,3 +9,7 @@ this is just the demo
 // git log
 // git show
 // git diff
+
+//third lesson
+// git checkout
+// git reset
