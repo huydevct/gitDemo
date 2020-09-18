@@ -11,5 +11,10 @@ this is just the demo
 // git diff
 
 //third lesson
-// git checkout
+// git checkout -- file
 // git reset
+
+// fourth lesson
+// git checkout .b <branch> (branching)
+// git checkout <branch>
+// git merge
