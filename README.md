@@ -37,3 +37,7 @@ git merge B
 // (Nếu chưa đăng nhập thì git push -u origin master)
 // load lại trang
 
+// git clone
+// git pull
+
+
