@@ -40,4 +40,9 @@ git merge B
 // git clone
 // git pull
 
-
+// Pull request
+// 1. git checkout -b <feature a branch> 
+// 2. git push origin <branch>
+// 3. create a pull request on github
+// 4. review code
+// 5. merge to master
