@@ -45,4 +45,7 @@ git merge B
 // 2. git push origin <branch>
 // 3. create a pull request on github
 // 4. review code
+    4.1 review code online(github)
+    4.2 fetch branch into test offline(optional)
+    4.3 approve the pull request
 // 5. merge to master
