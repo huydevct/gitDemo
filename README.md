@@ -54,3 +54,6 @@ Pull request:
       4.2 fetch branch into test offline(optional)
       4.3 approve the pull request
     5. merge to master
+    
+    6. git install
+    
